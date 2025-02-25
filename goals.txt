@@ -1,0 +1,3 @@
+Encrypt data transmissions and build and maintain firewalls to protect confidential information.
+Develop plans and technologies to protect computer data and files against unintended destruction or modification through malware or other attack vectors.
+Develop plans and procedures for dealing with data breaches and attacks.
